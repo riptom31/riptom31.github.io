@@ -5,7 +5,7 @@ twripley@my.waketech.edu
 * Repository: riptom31.github.io
 
 ### Steps to cloning a repository
-1. Clicked on the **"+"** icon in the top left corner of GitHub desktop and clicked **"clone repository"**.
+1. Clicked on the **"+"** icon in the top left corner of GitHub desktop and clicked **"_clone repository"_**.
 2. Chose the location where I wanted the file copied too
 3. The file was then cloned onto my hardrive
 
